@@ -1,0 +1,8 @@
+a = input()
+b = input()
+a_int = int(a)
+b_int = int(b)
+print(a_int * int(b[2]))
+print(a_int * int(b[1]))
+print(a_int * int(b[0]))
+print(a_int * b_int)
